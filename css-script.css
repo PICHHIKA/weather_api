@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  #city {
+    margin-top: 50px;
+  }
+  
+  #temp-container {
+    margin-top: 50px;
+    display: none;
+  }
